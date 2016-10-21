@@ -1,11 +1,3 @@
-//
-//  MealTableViewController.swift
-//  FoodTracker
-//
-//  Created by Xiang, Zhuyuan | Matt | ISDOD on 19/10/16.
-//  Copyright © 2016 Apple Inc. All rights reserved.
-//
-
 import UIKit
 
 class MealTableViewController: UITableViewController {
